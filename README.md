@@ -1,0 +1,2 @@
+# tsconfig
+@whatasoda/tsconfig
