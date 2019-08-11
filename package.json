@@ -1,0 +1,22 @@
+{
+  "name": "@whatasoda/tsconfig",
+  "version": "1.0.0",
+  "description": "@whatasoda/tsconfig",
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatasoda/tsconfig.git"
+  },
+  "author": "whatasoda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whatasoda/tsconfig/issues"
+  },
+  "homepage": "https://github.com/whatasoda/tsconfig#readme",
+  "peerDependencies": {
+    "typescript": "*"
+  }
+}
