@@ -1,6 +1,6 @@
 {
   "name": "@whatasoda/tsconfig",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "@whatasoda/tsconfig",
   "main": "tsconfig.json",
   "scripts": {
