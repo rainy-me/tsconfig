@@ -1,21 +1,18 @@
 {
-  "name": "@whatasoda/tsconfig",
-  "version": "1.0.3",
-  "description": "@whatasoda/tsconfig",
+  "name": "@kalafina/tsconfig",
+  "version": "1.0.0",
+  "description": "@kalafina/tsconfig",
   "main": "tsconfig.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whatasoda/tsconfig.git"
+    "url": "git+https://github.com/rainy-me/tsconfig.git"
   },
-  "author": "whatasoda",
+  "author": "yue",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whatasoda/tsconfig/issues"
+    "url": "https://github.com/rainy-me/tsconfig/issues"
   },
-  "homepage": "https://github.com/whatasoda/tsconfig#readme",
+  "homepage": "https://github.com/rainy-me/tsconfig#readme",
   "peerDependencies": {
     "typescript": "*"
   }
